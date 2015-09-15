@@ -1,7 +1,7 @@
 # dolphin-emu-git
 Gamecube and Wii Emulator, Git Version 
 
-The stable Version in [apps] is more than 1 Year old, you find huge Performance Improvements in this Release here.
+The stable Version in [apps] is about 2 years old, you find huge improvements in this release here.
 
 Install polarssl and sfml, before you build dolphin. (both from KCP)
 
