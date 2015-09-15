@@ -1,5 +1,5 @@
 pkgname=dolphin-emu-git
-pkgver=4.0.2.r5390.3c475b9
+pkgver=4.0.2.r7725.3c475b9
 pkgrel=1
 pkgdesc='A GameCube / Wii / Triforce emulator'
 arch=('x86_64')
@@ -8,7 +8,6 @@ license=('GPL2')
 depends=('bluez' 'ffmpeg' 'libao' 'lzo2' 'miniupnpc' 'polarssl' 'portaudio-svn'
          'sdl2' 'sfml' 'soundtouch' 'wxgtk' 'xdg-utils' 'pulseaudio')
 makedepends=('cmake' 'git')
-optdepends=()
 provides=('dolphin-emu')
 conflicts=('dolphin-emu')
 options=('!emptydirs')
